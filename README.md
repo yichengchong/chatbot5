@@ -1,7 +1,7 @@
 Organization information
 
-Couch:
-Mr. YI CHENG (Exquisite 3-star Michelin star bakery chef)
+Organizer:
+Mr. YI CHENG 
 
 Time open:
 Book a time
