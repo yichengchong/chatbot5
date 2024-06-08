@@ -22,6 +22,11 @@ Financial course (Available)
 Personality development course (Available)
 Fitnesss course (Available)
 
+Coaches:
+Financial course (Dr.YI CHENG)
+Personality development course ( Dr. CHENG YI)
+Fitnesss course (Dr. CHONG YI)
+
 Course pricing:
 Financial course - 30RM per class
 Personality development course - 100RM per class
