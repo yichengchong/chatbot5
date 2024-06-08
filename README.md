@@ -1,4 +1,4 @@
-Shop information
+Organization information
 
 Couch:
 Mr. YI CHENG (Exquisite 3-star Michelin star bakery chef)
@@ -36,9 +36,14 @@ booking process:
 Specify course 
 number of class attend
 
-Programs:
+Courdse:
 No loyalty program (will soon be implemented)
 No refunds and returns
+
+About course
+Financial course - learn how to achive financial freedom
+Personality development course - learn to be a well develop inner person
+Fitnesss course - keep body fit and healthy
 
 Promotions:
 Financial course 20% off (End at 29th March)
